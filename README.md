@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @regiemarksanchez
-- 👀 I’m interested in Codiing
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning at Cebu Technological University
 - 💞️ I’m looking to collaborate on Developers
 - 📫 How to reach me? Just email me regie.sanchez@ctu.edu.ph
